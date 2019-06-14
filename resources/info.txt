@@ -1,1 +1,1 @@
-This folder contains resources, needed to exe file
+This folder contains resources needed to exe file
