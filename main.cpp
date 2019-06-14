@@ -58,8 +58,7 @@ int main()
 	Font font;
 	font.loadFromFile("resourses/11763.ttf");
 	Text text("Score 0", font, 55);
-	text.setFillColor(Color::White);
-	text.setOutlineColor(Color::White);
+	text.setColor(Color::White);
 	text.setStyle(sf::Text::Bold);
 	text.setPosition(420, 40);
 	std::ostringstream score_stream;
